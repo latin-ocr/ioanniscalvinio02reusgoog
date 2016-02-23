@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio02reusgoog_0010.png"; bbox 0 0 4762 5918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 816 1683 1559 1807">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 816 1683 1559 1807">
+     <span class='ocr_line' id='line_1_1' title="bbox 816 1683 1559 1807; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 816 1684 1166 1806; x_wconf 86' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1207 1683 1559 1807; x_wconf 78' lang='lat' dir='ltr'>CALVINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 262 2217 2114 2391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 262 2137 2114 2391">
+     <span class='ocr_line' id='line_1_2' title="bbox 262 2217 2114 2391; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 262 2232 886 2388; x_wconf 78' lang='lat' dir='ltr'><strong>TRAOTATUS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 933 2217 1594 2388; x_wconf 76' lang='lat' dir='ltr'>THEOLOGIOI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1637 2235 2114 2391; x_wconf 67' lang='lat' dir='ltr'>fflNofffls</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 899 3109 1485 3218">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 899 3109 1485 3218">
+     <span class='ocr_line' id='line_1_3' title="bbox 899 3109 1485 3218; baseline -0.009 -5"><span class='ocrx_word' id='word_1_6' title='bbox 899 3113 1127 3215; x_wconf 88' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1156 3109 1485 3218; x_wconf 79' lang='lat' dir='ltr'><strong>QUARTUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2386 5908">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2386 5908">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2386 5908; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2386 5908; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
